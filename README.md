@@ -528,7 +528,6 @@ This is an academic/demo build. Please note the following before using it beyond
 | GitHub | Role |
 |--------|------|
 | [@ThemiyaDeshan](https://github.com/ThemiyaDeshan) | Repository owner / contributor |
-| IT24103178 | Contributor (initial system commit) |
 
 Contributions, issues and suggestions are welcome. Feel free to open an issue or submit a pull request.
 
